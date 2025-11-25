@@ -1,2 +1,3 @@
 # Game-Duck
-<img width="1536" height="1024" alt="piplogo" src="https://github.com/user-attachments/assets/6e9b3728-31da-4400-9f2d-57c3adf4407d" />
+![WhatsApp Image 2025-11-24 at 21 58 46](https://github.com/user-attachments/assets/7b35423d-7666-4f2b-91a9-5a1e7cc9de83)
+
