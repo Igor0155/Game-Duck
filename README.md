@@ -33,7 +33,6 @@ A missão do jogador é levar Pip de volta até Lia ❤️.
 
 ## Visual do Jogo
 
-![alt text](image.png)
 ![alt text]({85E9A1A6-A3AC-491D-99A0-4DE702FF54B3}.png)
 
 ---
