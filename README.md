@@ -67,5 +67,5 @@ O jogo é um **plataforma 2D** focado em movimento e _timing_.
 ## Equipe
 
 - Igor Gabriel Rodrigues
--
--
+- Ingrid Macedo
+- Igor Landim
